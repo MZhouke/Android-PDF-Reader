@@ -19,8 +19,6 @@ Enhancements of the program:
 
 
 Information:
-Hongjian Zhou
-20707955 h222zhou
 openjdk version "11.0.8" 2020-09-29
 Android 11.0 (R)
 macOS 10.14.6 (MacBook Pro 2017)
