@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">H222Zhou_A4</string>
+    <string name="title">shannon1948.pdf</string>
+    <string name="description_nextPage">go to next page</string>
+    <string name="resetView">Reset View</string>
+    <string name="eraserDescription">eraser</string>
+    <string name="highlighterDescription">highlighter</string>
+    <string name="penDescription">pen</string>
+    <string name="nextpage">nextPage</string>
+    <string name="prevpage">prevPage</string>
+    <string name="back_to_last_activity">back to last activity</string>
+    <string name="undo">undo</string>
+    <string name="redo">redo</string>
+    <string name="switch_to_viewing">switch to viewing</string>
+    <string name="reset_view">reset view</string>
+</resources>
