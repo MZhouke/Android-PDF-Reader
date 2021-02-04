@@ -1,7 +1,5 @@
 Description of the program:
 
-Compile: app-debug.apk file is at top level directory. local-properties file is included and has my own sdk directory in it. Change this if needed. 
-
 Multipage: two buttons at bottom of screen, for previous page and next page. 
 If no previous page/ next page, the corresponding will be grey, otherwise black. 
 Page number displayed at bottom centre. Orientation is disabled. Vertical orientation only. 
@@ -51,7 +49,6 @@ This is designed so that user know what options they have.
 
 Information:
 Hongjian Zhou
-20707955 h222zhou
 openjdk version "11.0.8" 2020-09-29
 Android 11.0 (R)
 macOS 10.14.6 (MacBook Pro 2017)
